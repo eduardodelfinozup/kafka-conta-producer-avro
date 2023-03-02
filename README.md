@@ -25,7 +25,7 @@ docker-compose down
 ```
 http://localhost:19000/
 ```
-# Lenss
+# Lences.io
 ```
 http://localhost:3030
 
